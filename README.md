@@ -1,0 +1,2 @@
+OAuth認証をしてcredentials.jsonを作成
+backup_filesのフォルダーを作ってそこに入っているファイルをGoogleDriveにアップ
